@@ -14,4 +14,4 @@ const oficio = {
     salario: 2000
 }
 const empleado = {...persona1, ...oficio}; //combina los dos objetos en uno solo
-console.log(empleado); // {nombre: 'Juan', apellido: 'Perez', edad: 30, profesion: 'Ingeniero', salario: 2000}
+console.log(empleado); // {nombre: 'Juan', apellido: 'Perez', edad: 30, profesion: 'Ingeniero', salario: 2000}c
